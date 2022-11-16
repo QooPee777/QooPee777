@@ -1,3 +1,3 @@
 - I’m @QooPee777, Japanese programmer ( C# / WPF / PowerShell ), Tetris player and researcher
-- Main Achievements : "DPC All Search Data Base", "DPC Combination All Search Data Base", "Extended path-filter", "Fumen Editing Library", "GUI for solution-finder", etc.
+- Main Achievements : "DPC All Search Database", "DPC Combination All Search Database", "Extended path-filter", "Fumen Editing Library", "GUI for solution-finder", etc.
 - Main Career : Investment Banking ( M&A Division ), Private Equity Fund ( Japan Buyout ), Certified Public Accountant
